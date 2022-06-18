@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/React-Portofolio/static/js/main.f28c7985.chunk.js",
-    "main.js.map": "/React-Portofolio/static/js/main.f28c7985.chunk.js.map",
-    "runtime-main.js": "/React-Portofolio/static/js/runtime-main.0d0f804a.js",
-    "runtime-main.js.map": "/React-Portofolio/static/js/runtime-main.0d0f804a.js.map",
-    "static/css/2.679831fc.chunk.css": "/React-Portofolio/static/css/2.679831fc.chunk.css",
-    "static/js/2.27397184.chunk.js": "/React-Portofolio/static/js/2.27397184.chunk.js",
-    "static/js/2.27397184.chunk.js.map": "/React-Portofolio/static/js/2.27397184.chunk.js.map",
-    "index.html": "/React-Portofolio/index.html",
-    "static/css/2.679831fc.chunk.css.map": "/React-Portofolio/static/css/2.679831fc.chunk.css.map",
-    "static/js/2.27397184.chunk.js.LICENSE.txt": "/React-Portofolio/static/js/2.27397184.chunk.js.LICENSE.txt",
-    "static/media/pexels-negative-space-34627.b5b1aaba.jpg": "/React-Portofolio/static/media/pexels-negative-space-34627.b5b1aaba.jpg",
-    "static/media/profile-img3.73f8875e.png": "/React-Portofolio/static/media/profile-img3.73f8875e.png"
+    "main.js": "/react-portfolio/static/js/main.f28c7985.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f28c7985.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.b4aa162e.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b4aa162e.js.map",
+    "static/css/2.679831fc.chunk.css": "/react-portfolio/static/css/2.679831fc.chunk.css",
+    "static/js/2.615a7b41.chunk.js": "/react-portfolio/static/js/2.615a7b41.chunk.js",
+    "static/js/2.615a7b41.chunk.js.map": "/react-portfolio/static/js/2.615a7b41.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/react-portfolio/static/css/2.679831fc.chunk.css.map",
+    "static/js/2.615a7b41.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.615a7b41.chunk.js.LICENSE.txt",
+    "static/media/pexels-negative-space-34627.b5b1aaba.jpg": "/react-portfolio/static/media/pexels-negative-space-34627.b5b1aaba.jpg",
+    "static/media/profile-img3.73f8875e.png": "/react-portfolio/static/media/profile-img3.73f8875e.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0d0f804a.js",
+    "static/js/runtime-main.b4aa162e.js",
     "static/css/2.679831fc.chunk.css",
-    "static/js/2.27397184.chunk.js",
+    "static/js/2.615a7b41.chunk.js",
     "static/js/main.f28c7985.chunk.js"
   ]
 }
