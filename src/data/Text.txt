@@ -32,11 +32,11 @@ VScode, Github, Codepen etc.
 About Text
 
 ----------------------------------------------
-I'm a front-end developer located in India. I love to create simple yet beautiful websites with great user experience.
+I'm a front-end developer, teacher and writer from in Dallas,Texas. I love to create simple yet beautiful websites with great user experience.
 
-I'm interested in the whole frontend stack Like trying new things and building great projects. I'm an independent freelancer and blogger. I love to write blogs and read books.
+I also love to teach programming, creative writing, play video games and read books. A goal of mine is to write a book one day (Currently working on it!).
 
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
+I believe anything and everything is possible, if you put your mind to it. You can connect with me via social links.
 ----------------------------------------------
 
 

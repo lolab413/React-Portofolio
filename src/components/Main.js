@@ -145,7 +145,7 @@ const Main = () => {
 
       <Center click={click}>
         <YinYang onClick={()=> handleClick()} width={click ? 120 : 250} height={click ? 120 : 250} fill='currentColor' />
-        <span>Click Me.</span>
+        <span>Start Here.</span>
       </Center>
       <Contact target="_blank" to={{pathname:"mailto:lolababatunde413@gmail.com"}}>
         <motion.h2
